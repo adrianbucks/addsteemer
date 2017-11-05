@@ -1,0 +1,23 @@
+{
+  "name": "addsteemer",
+  "version": "1.0.0",
+  "description": "Steem account creator for windows",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianbucks/addsteemer.git"
+  },
+  "author": "adrianbucks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adrianbucks/addsteemer/issues"
+  },
+  "homepage": "https://github.com/adrianbucks/addsteemer#readme",
+  "devDependencies": {
+    "electron": "^1.7.9"
+  },
+  "dependencies": {}
+}
